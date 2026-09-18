@@ -16,4 +16,29 @@ In my original layout, USB3.0/2.0, Ethernet, HDMI, M.2 E&M Key, GPIO, I2C, UART,
 
 Below are the links to the photos of the schematics and the (old) layout. Somehow the schematic window was able to close down properly before my laptop died so they are up to date.
 
+## Photos
+<table>
+  <tr>
+    <td><img src="./images/LattePanda-Mu_carrier_board_high_level-schematic.jpg" width="400"></td>
+    <td><img src="./images/LattePanda-Mu_carrier_board-Power Supply_page-0001.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/LattePanda-Mu_carrier_board-Fan_page-0001.jpg" width="400"></td>
+    <td><img src="./images/LattePanda-Mu_carrier_board-GPIO_page-0001.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/LattePanda-Mu_carrier_board-PCIe x4_page-0001.jpg" width="400"></td>
+    <td><img src="./images/LattePanda-Mu_carrier_board-GPIO_page-0001.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/LattePanda-Mu_carrier_board-Gigabit Ethernet_page-0001.jpg" width="400"></td>
+    <td><img src="./images/LattePanda-Mu_carrier_board-USB 2.0 &3.0_page-0001.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="./images/LattePanda-Mu_carrier_board-HDMI_page-0001.jpg" width="400"></td>
+    <td><img src="./images/LattePanda-Mu_carrier_board-M.2 Key_page-0001.jpg" width="400"></td>
+  </tr>
+  <td><img src="./images/LattePanda_Mu_carrier_board_old.png" width="400"></td>
+</table>
+
 
