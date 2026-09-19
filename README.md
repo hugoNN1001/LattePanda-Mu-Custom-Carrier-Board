@@ -39,6 +39,7 @@ Below are the links to the photos of the schematics and the (old) layout. Someho
     <td><img src="./images/LattePanda-Mu_carrier_board-M.2 Key_page-0001.jpg" width="400"></td>
   </tr>
   <td><img src="./images/LattePanda_Mu_carrier_board_old.png" width="400"></td>
+  <td><em>Layout progress at time of loss (unsaved crash - see write-up)</em></td>
 </table>
 
 
